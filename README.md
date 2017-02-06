@@ -17,6 +17,5 @@ The ESP8266 Microcontroller has a built-in Wi-Fi module, and I created a HTTP Se
 •	Further Development:  
 For further development, I'd like to enable the user to write the own tempo of the percussion music; the user can specify the speed level, and the MCU can translate it to the servo to customize the tempo. 
 
-• Demonstration Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPO47teA6w8" frameborder="0" allowfullscreen></iframe>
-
+• Demonstration Video Link:  
+https://youtu.be/dPO47teA6w8
