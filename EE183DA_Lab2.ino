@@ -8,7 +8,7 @@ Servo myservo;
 
 void move(int pos, int del)
 {
-  myservo.write(pos);
+  myservo.write(pos); //move the servo to a certain position
   delay(del);
 }
 
